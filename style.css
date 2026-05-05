@@ -1,0 +1,68 @@
+/* ====== GLOBAL ====== */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fdf6ec;
+}
+
+/* ====== NAVBAR ====== */
+nav {
+    background-color: #d6c1a3;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #4b3f2f;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: black;
+}
+
+/* ====== CONTAINER ====== */
+.container {
+    padding: 20px;
+}
+
+/* ====== CARD ====== */
+.card {
+    background-color: #fffaf3;
+    border-radius: 75px;
+    padding: 20px;
+}
+
+/* ====== BUTTON ====== */
+.btn {
+    background-color: black !important;
+    color: white !important;
+}
+
+/* ====== TABLE ====== */
+.table {
+    background-color: white;
+}
+
+/* ====== LIST ====== */
+.list-group-item {
+    background-color: #fffaf3;
+}
+
+/* ====== FOOTER ====== */
+footer {
+    background-color: #d6c1a3;
+    color: #4b3f2f;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* ====== GAMBAR ====== */
+img {
+    width: 50%;
+    max-height: 300px;
+    object-fit: cover;
+}
